@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.welcome{
+    font-family: 'Oswald';
+    position: absolute;
+    padding: 100px;
+    color: red;
+    padding-top: 10px;
+    padding-left: 10px;
+    size: 10px;
+    top: 100px;
+    width: 300px;
+}
+
+.logo{
+ width: 300px;
+  position: absolute;
+  left: 100px;
+  top: -5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+
+.section{
+    width: 300px;
+    position: absolute;
+    top: 300px;
+    left: 100px;
+}
+
+.products {
+    position: absolute;
+    top: 500px;
+    color: white;
+    font-family: Oswald;
+}
+
+.shop{
+    color: white;
+    top: 300px;
+    position: absolute;
+    left: 600px
+}
+
+.farley{
+    position: absolute;
+    top: 500px;
+    color: white;
+    font-family: Oswald;
+    left: 500px;
+}
+
+.varey{
+     position: absolute;
+    top: 500px;
+    color: white;
+    font-family: Oswald;
+    left: 900px;
+}
